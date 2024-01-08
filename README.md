@@ -15,5 +15,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=xNiicki&icon=0&color=0)](https://visitcount.itsvg.in)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2nbguognvbcag59t1pbu2weon&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=000000&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=2nbguognvbcag59t1pbu2weon&redirect=true)
+[![Discord Presence](https://lanyard.kyrie25.me/api/732538761052815511)](https://discord.com/users/732538761052815511)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
