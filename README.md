@@ -1,5 +1,16 @@
 # 💫 About Me:
-⚒️ Current Project:<br>I’m developing a fitness course booking system that combines a user-friendly booking mechanism with an intuitive admin panel for seamless management.<br>📚 Tech Stack & Learning:<br>I’m diving deep into Laravel, Livewire, and PHP Filament to build dynamic, scalable, and modern web applications.<br>⚙️ Development Tools:<br>To streamline my workflow and ensure high-quality code, I use:<br>Deployer for automated deployments.<br>PHPUnit for easy software testing.<br>Rector for modernizing and refactoring PHP code.<br>🎨 Design Approach:<br>For front-end design, I primarily rely on Bootstrap CSS for rapid prototyping and responsiveness. I enhance it with vanilla CSS to create custom designs that add a unique touch to my projects.<br>☁️ Ask Me About:<br>Feel free to ask me about Laravel, Livewire, PHP Filament, or any of the tools and frameworks I use. I’m always happy to share insights or discuss best practices!<br>⚡ Fun Fact:<br>I’m just 16 years old.
+### ⚒️ Current Project:
+I’m developing a fitness course booking system that combines a user-friendly booking mechanism with an intuitive admin panel for seamless management.
+### 📚 Tech Stack & Learning:
+I’m diving deep into Laravel, Livewire, and PHP Filament to build dynamic, scalable, and modern web applications.
+### ⚙️ Development Tools:
+To streamline my workflow and ensure high-quality code, I use:<br>Deployer for automated deployments.<br>PHPUnit for easy software testing.<br>Rector for modernizing and refactoring PHP code.
+### 🎨 Design Approach:
+For front-end design, I primarily rely on Bootstrap CSS for rapid prototyping and responsiveness. I enhance it with vanilla CSS to create custom designs that add a unique touch to my projects.
+### ☁️ Ask Me About:
+Feel free to ask me about Laravel, Livewire, PHP Filament, or any of the tools and frameworks I use. I’m always happy to share insights or discuss best practices!
+### ⚡ Fun Fact:
+I’m just 16 years old.
 
 
 # 💻 Tech Stack:
